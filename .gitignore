@@ -1,0 +1,14 @@
+.venv/
+vendor/
+cache/
+output/
+creatives/
+__pycache__/
+*.pyc
+*.egg-info/
+dist/
+build/
+.DS_Store
+.env*
+node_modules/
+.next/
